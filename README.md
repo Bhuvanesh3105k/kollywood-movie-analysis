@@ -11,8 +11,7 @@ Technologies Used
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-
+  
 Analysis Performed
 
 - Data Loading and Exploration
